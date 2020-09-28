@@ -1,13 +1,11 @@
+/* * Refers to styling for the whole page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
+/* Here is the styling for the header including h1 and navigation bar */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +39,12 @@ header nav ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
+/* Styling for the body of the page, styles the background color for the whole page */
+body {
+    background-color: #d9dcd6;
 }
 
-p {
-    font-size: 16px;
-}
-
+/* Sets the styling for the background image that is under the header */
 .background-image {
     height: 800px;
     width: 100%;
@@ -59,6 +54,18 @@ p {
     background-position: center;
 }
 
+/* Sets the color for anchor tags */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Sets the font size for paragraph tags */
+p {
+    font-size: 16px;
+}
+
+/* Sets the positioning for the content */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,6 +76,7 @@ p {
     margin-left: 25px;
 }
 
+/* Sets the styling for the content in section 1 */
 .content {
     width: 75%;
     display: inline-block;
@@ -93,6 +101,8 @@ p {
     font-size: 36px;
 }
 
+
+/* Sets the styling for the content in section 2 */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +130,7 @@ p {
     max-width: 150px;
 }
 
+/* Sets the styling for the footer */
 footer {
     padding: 30px;
     clear: both;
