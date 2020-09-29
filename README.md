@@ -49,7 +49,7 @@ This was my first homework assignment and I am proud of my work. Although the ht
     Changed the <b>div</b> tags to <b>article</b> tags to follow html5 sematic tags that are within both <b>section</b> tags.
     </li>
     <li>
-    Removed the <b></img></b> tag from the <b>cost-management</b> image code because the image tag is self closing and does not need <b></img></b>
+    Removed the <b>/img</b> closing tag from the <b>cost-management</b> image code because the image tag is self closing and does not need <b>/img</b>
     </li>
     <li>
     Added <b>alt text</b> for each image describing each picture to meet accessibility standards.
