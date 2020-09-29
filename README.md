@@ -58,7 +58,7 @@ This was my first homework assignment and I am proud of my work. Although the ht
     Changed the order of the <b>CSS sheet</b> so it reflects styling from top to bottom of the webpage.
     </li>
     <li>
-
+    Moved <b>index.html</b> to the root, created two new directories for <b>images</b> and <b>CSS</b> so I could host the page on GitHub.
     </li>
 </ul>
 
